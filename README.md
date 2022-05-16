@@ -7,7 +7,7 @@
  <h2>Tecnologias atuais</h2>
  
  <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50" height="50" />
  
 
                                                                                                              
