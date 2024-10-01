@@ -2,7 +2,7 @@
 
 <h2>• Sobre min</h2>
 <p> • Olá, meu nome é Jeffersom Benvindo e sou estudante de Analises e desenvolvimentos de Sistemas pela UNIFFA.<br>
-• Sou aficionado pelo Mundo OpenSource.</p>
+• Sou aficionado por Python e OpenSource.</p>
  
  <h2>Tecnologias atuais</h2>
  
